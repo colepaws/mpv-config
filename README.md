@@ -1,2 +1,2 @@
 # mpv-config
-My public mpv config. Nothing more to see. Some paths in files are to my PC, fix this if you want.
+My public mpv config. Nothing more to see. Refresh rate change script won't work without nircmd installed to PATH.
